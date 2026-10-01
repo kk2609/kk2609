@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
- 👋 Hey, I'm Krish Koshti
+ <H1>👋 Hey, I'm Krish Koshti</H1>
 
 ### Full-Stack Developer • React.js • Node.js • Building Modern Web Apps
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Projects-View%20All-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your.email@example.com">
+<a href="mailto:koshtikrish10@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
