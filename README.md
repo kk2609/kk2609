@@ -89,7 +89,6 @@ I started my journey with frontend development and gradually expanded into full-
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kk2609&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
